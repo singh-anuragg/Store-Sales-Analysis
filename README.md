@@ -28,7 +28,8 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 ## **Dashboard**
 
-![Alt text of the image][(https://github.com/singh-anuragg/Store-Sales-Analysis/blob/main/Screenshot%202025-10-26%20012201.png)]
+![Alt text of the image](https://github.com/singh-anuragg/Store-Sales-Analysis/blob/main/Screenshot%202025-10-26%20012201.png)
+
 
 
 
